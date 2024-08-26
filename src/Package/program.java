@@ -9,7 +9,7 @@ public class program {
 		Scanner sc = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
 		
-	   System.out.println("luciano gay");
+	   System.out.println("teste");
 	
 	
 		
